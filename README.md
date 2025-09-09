@@ -1,72 +1,8 @@
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=suye0n6&utm_content=line">
-  <img
-    src="https://render.gitanimals.org/lines/suye0n6"
-    width="600"
-    height="120"
-  />
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=suye0n6&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/suye0n6"
+  width="600"
+  height="300"
+/>
 </a>
-
-
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=suye0n6&utm_content=line">
-  <img
-    src="https://render.gitanimals.org/lines/suye0n6?pet-id=753140782715481838"
-    width="600"
-    height="120"
-  />
-</a>
-
-
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=suye0n6&utm_content=line">
-  <img
-    src="https://render.gitanimals.org/lines/suye0n6?pet-id=753140783273323751"
-    width="600"
-    height="120"
-  />
-</a>
-
-
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=suye0n6&utm_content=line">
-  <img
-    src="https://render.gitanimals.org/lines/suye0n6?pet-id=753140783273323751"
-    width="600"
-    height="120"
-  />
-</a>
-
-
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=suye0n6&utm_content=line">
-  <img
-    src="https://render.gitanimals.org/lines/suye0n6?pet-id=753140797093558049"
-    width="600"
-    height="120"
-  />
-</a>
-
-
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=suye0n6&utm_content=line">
-  <img
-    src="https://render.gitanimals.org/lines/suye0n6?pet-id=753141272689877650"
-    width="600"
-    height="120"
-  />
-</a>
-
-
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=suye0n6&utm_content=line">
-  <img
-    src="https://render.gitanimals.org/lines/suye0n6?pet-id=753140798314086636"
-    width="600"
-    height="120"
-  />
-</a>
-  
-
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=suye0n6&utm_content=line">
-  <img
-    src="https://render.gitanimals.org/lines/suye0n6?pet-id=753139864330667138"
-    width="600"
-    height="120"
-  />
-</a>
-  
   
